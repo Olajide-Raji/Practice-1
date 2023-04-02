@@ -16,8 +16,9 @@ almithyFormula(4, -11, -21);
 
 
 
-let a = 1;
+let a = 2;
 let b = 2;
-let c = a + b;
-console.log(c);
+let c = 3;
+let d = a + b + c;
+console.log(d);
 
