@@ -1,3 +1,6 @@
 h1 {
     color: red;
 }
+.first-div {
+    background-image: -moz-radial-gradient(red, yellow);
+}
